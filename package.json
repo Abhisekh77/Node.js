@@ -1,0 +1,28 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "A node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abhisekh77"
+  },
+  "keywords": [
+    "code",
+    "xa",
+    "hai"
+  ],
+  "author": "abhi",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "nodemon": "^3.0.1",
+    "prompts": "^2.4.2",
+    "simple-node-logger": "^21.8.12"
+  }
+}
